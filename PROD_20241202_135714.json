@@ -1,0 +1,38 @@
+[
+  {
+    "Campo0": "BEB-001",
+    "Campo1": "Coca Cola",
+    "Campo2": "Bebidas",
+    "Campo3": "21.00",
+    "Campo4": "0",
+    "Campo5": "1969-12-31",
+    "Campo6": "1"
+  },
+  {
+    "Campo0": "P001",
+    "Campo1": "Camiseta",
+    "Campo2": "Ropa",
+    "Campo3": "15.99",
+    "Campo4": "103",
+    "Campo5": "2024-12-02",
+    "Campo6": "50"
+  },
+  {
+    "Campo0": "P002",
+    "Campo1": "Zapatos",
+    "Campo2": "Calzado",
+    "Campo3": "45.50",
+    "Campo4": "205",
+    "Campo5": "2024-12-02",
+    "Campo6": "75"
+  },
+  {
+    "Campo0": "P003",
+    "Campo1": "Laptop",
+    "Campo2": "Electronica",
+    "Campo3": "799.99",
+    "Campo4": "50",
+    "Campo5": "2024-09-30",
+    "Campo6": "30"
+  }
+]

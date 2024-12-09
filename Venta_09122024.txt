@@ -1,0 +1,7 @@
+Recibo de Pago
+=====================
+Cliente: SSS
+Método de Pago: Efectivo
+Monto Total: $126.00
+=====================
+Gracias por su compra!

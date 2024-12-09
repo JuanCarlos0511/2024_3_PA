@@ -1,0 +1,38 @@
+<Inventario>
+  <Producto>
+    <Campo0>BEB-001</Campo0>
+    <Campo1>Coca Cola</Campo1>
+    <Campo2>Bebidas</Campo2>
+    <Campo3>21.00</Campo3>
+    <Campo4>0</Campo4>
+    <Campo5>1969-12-31</Campo5>
+    <Campo6>1</Campo6>
+  </Producto>
+  <Producto>
+    <Campo0>P001</Campo0>
+    <Campo1>Camiseta</Campo1>
+    <Campo2>Ropa</Campo2>
+    <Campo3>15.99</Campo3>
+    <Campo4>103</Campo4>
+    <Campo5>2024-12-02</Campo5>
+    <Campo6>50</Campo6>
+  </Producto>
+  <Producto>
+    <Campo0>P002</Campo0>
+    <Campo1>Zapatos</Campo1>
+    <Campo2>Calzado</Campo2>
+    <Campo3>45.50</Campo3>
+    <Campo4>205</Campo4>
+    <Campo5>2024-12-02</Campo5>
+    <Campo6>75</Campo6>
+  </Producto>
+  <Producto>
+    <Campo0>P003</Campo0>
+    <Campo1>Laptop</Campo1>
+    <Campo2>Electronica</Campo2>
+    <Campo3>799.99</Campo3>
+    <Campo4>50</Campo4>
+    <Campo5>2024-09-30</Campo5>
+    <Campo6>30</Campo6>
+  </Producto>
+</Inventario>

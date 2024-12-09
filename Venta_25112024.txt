@@ -1,0 +1,7 @@
+Recibo de Pago
+=====================
+Cliente: nnn
+Método de Pago: Efectivo
+Monto Total: $600.00
+=====================
+Gracias por su compra!

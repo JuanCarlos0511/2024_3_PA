@@ -1,0 +1,7 @@
+Recibo de Pago
+=====================
+Cliente: Jose Leonardo
+Método de Pago: Efectivo
+Monto Total: $50.00
+=====================
+Gracias por su compra!
