@@ -9,10 +9,10 @@
     <parameter name="REPORT_DATE" class="java.util.Date"/>
 
     <!-- Campos -->
-    <field name="ID_Venta" class="java.lang.String"/>
-    <field name="Nombre_Cliente" class="java.lang.String"/>
-    <field name="FechaFormateada" class="java.lang.String"/>
-    <field name="Total" class="java.lang.String"/>
+    <field name="ID" class="java.lang.String"/>
+    <field name="Cliente" class="java.lang.String"/>
+    <field name="Fecha" class="java.lang.String"/>
+    <field name="Monto Total" class="java.lang.String"/>
 
     <!-- Título del reporte -->
     <title>
